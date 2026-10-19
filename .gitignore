@@ -1,0 +1,10 @@
+tests
+test_stub_cards_out
+test_output
+test_logs
+test_bleed_print_out
+test_back_print_out
+printed_cards
+card_backs
+bin
+obj
